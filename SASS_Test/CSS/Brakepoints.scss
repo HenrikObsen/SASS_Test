@@ -1,0 +1,17 @@
+﻿@import 'Response.scss';
+
+body {
+    background-color: red;
+
+    @include respond-to(small) {
+        background-color: blue;
+    }
+
+    @include respond-to(medium) {
+        background-color: green;
+    }
+
+    @include respond-to(large) {
+        background-color: yellow;
+    }
+}

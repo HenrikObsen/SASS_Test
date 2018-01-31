@@ -1,0 +1,18 @@
+﻿[
+  {
+    "outputFile": "CSS/StyleSheet1.css",
+    "inputFile": "CSS/StyleSheet1.scss"
+  },
+  {
+    "outputFile": "CSS/Response.css",
+    "inputFile": "CSS/Response.scss"
+  },
+  {
+    "outputFile": "CSS/Brakepoints.css",
+    "inputFile": "CSS/Brakepoints.scss"
+  },
+  {
+    "outputFile": "CSS/Grid.css",
+    "inputFile": "CSS/Grid.scss"
+  }
+]
